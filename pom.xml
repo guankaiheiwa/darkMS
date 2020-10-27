@@ -9,6 +9,8 @@
     <packaging>pom</packaging>
 
     <modules>
+        <module>darkms-member</module>
+        <module>darkms-common</module>
     </modules>
 
     <!--统一管理jar版本 -->
